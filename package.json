@@ -9,8 +9,10 @@
   "author": "pika",
   "license": "ISC",
   "devDependencies": {
-    "eslint": "^8.1.0",
-    "eslint-config-vue": "^2.0.2",
-    "eslint-plugin-vue": "^8.0.3"
+    "eslint": "^8.14.0",
+    "eslint-plugin-vue": "^8.7.1"
+  },
+  "dependencies": {
+    "puppeteer": "^13.6.0"
   }
 }
