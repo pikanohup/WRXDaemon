@@ -4,11 +4,12 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "debug": "DEBUG=wrxdaemon node ./index.js"
   },
   "author": "pika",
   "license": "ISC",
   "devDependencies": {
+    "debug": "^4.3.4",
     "eslint": "^8.14.0",
     "eslint-plugin-vue": "^8.7.1"
   },
